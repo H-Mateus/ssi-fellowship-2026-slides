@@ -1,0 +1,81 @@
+---
+title: "Peer mentoring disguised as code review"
+subtitle: "SSI Fellow application 2026"
+author: "Gabriel Mateus Bernardo Harrington"
+format:
+  revealjs:
+    self-contained: true
+    theme:
+      [dracula, custom.scss]
+---
+
+# 
+
+:::{.r-fit-text}
+Backstory
+:::
+
+## 1. Undergrad in Biological Sciences @ Lancaster University
+
+![](index-img/250903-131446.avif){fig-align="center"}
+
+## 2. Uncertainty, existential dread, research project on cochlear implants in Australia, etc
+
+![](index-img/250903-131613.avif){fig-align="center"}
+
+## 3. PhD in a hospital on spinal cord injury - learnt to code!
+
+![](index-img/250903-132326.avif){fig-align="center"}
+
+## 4. Postdoctal bioinformatician at the UK Dementia Research Institute @ Cardiff University
+
+![](index-img/250903-133415.avif){fig-align="center"}
+
+# 
+
+:::{.r-fit-text}
+The Setting
+:::
+
+## UKDRI
+
+![](index-img/250903-133514.avif){fig-align="center"}
+
+::: {.notes}
+- over 600 people in the institute
+- around 100 informaticians - many isolated and with no software/stats training
+- strong appetite to collaborate and improve
+:::
+
+## Fellowship plan
+
+::: {.incremental .highlight-last}
+1. Do the carpentries train the trainer
+1. Deliver pilot training locally at Cardiff University - carpentries git course
+    - Add on code review aspect
+        - Assign attendees into code buddy pairs
+        - Have them use GitHub template with documentation of how to conduct code reviews
+        - Suggest weekly meeting to review code
+:::
+
+## Fellowship plan - continued
+
+::: {.incremental .highlight-last}
+1. Get feedback on the pilot - incorporate and refine
+1. Travel to the UKDRI centers to deliver the training
+1. Build up network for folk to request code buddies
+    - Favor connecting different centres to promote broader networking
+:::
+
+## The wins
+
+::: {.incremental .highlight-last}
+- Many folk not using version control -> delivering training should improve this
+- Motivation to improve code quality (documentation, reproducibility, etc)
+- Networking
+- Support learning and development
+- I gain lots of experience in training and community building!
+:::
+
+## Thank for listening!
+
