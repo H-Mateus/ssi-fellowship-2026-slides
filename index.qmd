@@ -1,10 +1,11 @@
 ---
 title: "Peer mentoring disguised as code review"
-subtitle: "SSI Fellow application 2026"
+subtitle: "SSI Fellowship application 2026"
 author: "Gabriel Mateus Bernardo Harrington"
 format:
   revealjs:
     self-contained: true
+    footer: "SSI Fellowship 2026 application - [GMBH](https://mateusharrington.com/) - CC-BY-SA"
     theme:
       [dracula, custom.scss]
 ---
@@ -79,3 +80,18 @@ The Setting
 
 ## Thank for listening!
 
+Slides here: [https://h-mateus.github.io/ssi-fellowship-2026-slides/](https://h-mateus.github.io/ssi-fellowship-2026-slides/)
+
+```{r}
+#| eval: false
+library(qrcode)
+code <- qr_code("https://h-mateus.github.io/ssi-fellowship-2026-slides/")
+generate_svg(
+  code,
+  filename = "index-img/qr.svg"
+)
+```
+
+Or via QR code:
+
+![](index-img/qr.svg){fig-align="center"}
